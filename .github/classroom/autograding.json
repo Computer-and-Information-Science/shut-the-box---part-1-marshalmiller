@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run",
+      "setup": "g++ main.cpp box.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
