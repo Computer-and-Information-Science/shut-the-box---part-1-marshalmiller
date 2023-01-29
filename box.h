@@ -2,7 +2,7 @@
 
 class Box{
   private:
-  int tab[10];
+  int tab[11];
   public:
   Box();
   bool close(int i1, int i2,int i3);
